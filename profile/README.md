@@ -1,4 +1,4 @@
 > [!NOTE]
-> THis is a work in proccess and may not ever come to completion
+> This is a work in proccess and not ready for production.
 
-A suite of interconnected tools that can be scaled and loaded when needed, a set of tools that can be setup when needed and removed when not required.
+Our goal is to develop a suite of scalable interconnected tools that can be seamlessly integrated together when required, the aim is to create a large collection of enterprise-level software that anybody can use and contribute to, irrespective of weather you're a small team or a leading titan in your industry, Our tools are versatile and customizable to suit your specific requirements.
