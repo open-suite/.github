@@ -7,7 +7,7 @@ Our goal is to develop a suite of scalable interconnected tools that can be seam
 
 ## Getting started
 
-If your looking to setup open suite there are a couple options either self-hosted which is completly free of charge or hosted which is scaled to your needs with support and is priced to your needs, we have created a simple guide for you to setup open suite free of charge [here](https://github.com/open-suite/getting-started).
+If your looking to setup open suite there are a couple options either self-hosted which is completly free of charge or hosted which is scaled to your needs with support and is priced to your needs, **we have created a simple guide for you to setup open suite free of charge [here](https://github.com/open-suite/getting-started).**
 
 ## Roadmap
 
