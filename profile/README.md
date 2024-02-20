@@ -12,3 +12,7 @@ If your looking to setup open suite there are a couple options either self-hoste
 ## Roadmap
 
 To see the current state of this project see our roadmap [here](https://github.com/orgs/open-suite/projects/1).
+
+## Support
+
+For community support please see the [discussion page](https://github.com/orgs/open-suite/discussions).
